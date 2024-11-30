@@ -1,0 +1,7 @@
+回声“# dyx”>>README.md
+git init
+git添加README.md
+git commit -m“第一次提交”
+git分支-M主
+git远程添加来源网址https://github.com/lizeyan77/dyx.git
+git push -u 来源主
